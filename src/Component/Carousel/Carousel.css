@@ -1,0 +1,14 @@
+.slider {
+  width: 700px;
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  justify-content: flex-end;
+}
+.father {
+  width: 700px;
+  display: block;
+  text-align: center;
+  overflow: hidden;
+  justify-content: flex-end;
+}
